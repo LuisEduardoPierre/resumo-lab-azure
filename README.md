@@ -6,4 +6,6 @@ inteligencias artificiais, a gama de ferramentas da plataforma é muito grande e
 
 Criando Máquinas Virtuais na Azure:
   A priori gostei muito da breve revisão sobre SLA e sobre o quanto a necessidade de implementação de um serviço implica no quanto se está disposto a pagar por determinada ferramenta/serviço, achei super interessante a exposição dos SLA já que inicialmente eu acreditava que a disponibilidade dele era ate o limite de 99,99%, mas na realidade como foi citado "Quanto mais "noves" maior a disponibilidade do serviço e menos a taxa que queda dos mesmos", gostaria de ressaltar que tbm, no momento de criação da máquina virtual foi muito interessante que o próprio sistema guia o usuário ate a sua necessidade/intenção com cada projeto oque torna bem mais fácil a implementação de uma determinada solução para um determinado contexto de maneira mais efetiva.
- 
+
+ Configurando uma instância de Banco de Dados na Azure:
+   Os tipos de serviços apresentados e disponibilizados pela Azure são bastante poderosos e flexíveis em seu uso para diversas atividades, e não e diferente quando se trata de IaaS, já que a implementação de um serviço de banco de dados de maneira remota e de fácil acesso aos usuários é algo fascinante e que complementa as explicações dadas pela professora no decorrer do curso, achei interessante que há sempre uma gama de configurações que sempre devem ser feitas e sempre estão presentes na plataforma sempre que são expostos nas aulas.
